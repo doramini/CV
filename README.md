@@ -45,7 +45,7 @@ Skilled researcher able to identify opportunities in a given arena.
 - [x] Participate in the front-end architecture work in a new generation website.
 - [x] Responsible on production app performance. Resolved website performance issues
 
-### *Projects
+### *Projects*
 
 - [x] Shotyz [https://shotyz.io]
 - [x] VVN [https://votrevoyagedenoces.fr]
