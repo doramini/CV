@@ -1,11 +1,11 @@
 ## Nguyen Thi Nhu Y
 
-* Junior Front End Developer - Salesforce Developer in `Metta Depth`.
+* Junior Front End Developer in `Metta Depth`.
 * Working experience in Vietnam.
 * Email: [allinlove100498@gmail.com](allinlove100498)
 * Phone: [+84337559237](+84337559237)
 
-## TECHNICAL SKILLS:
+## Expertise:
 
 LANGUAGES: C, C++, PHP.
 
