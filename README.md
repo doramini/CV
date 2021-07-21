@@ -23,6 +23,14 @@
 	* Node.js, MySQL
 	* PHP
 
+## Responsibilities:
+
+- Provide support for project execution involving new solution if required.
+
+- Followup to closure in order to implement change and escalate to supervisor if required.
+
+- Develop customized customer relationship management platforms.
+
 ## Summary
 
 As a 1 years agile geek in web engineering, with experience in PHP full-stack and the JavaScript stack development;
