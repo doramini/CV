@@ -3,16 +3,15 @@
 * Junior Front End Developer - Junior Wordpress Developer in `Metta Depth`.
 * Working experience in Vietnam.
 * Email: [allinlove100498@gmail.com](mailto:allinlove100498@gmail.com)
-* Phone: [+84337559237](tel:+84337559237)
+* Phone: [+84337559237](+84337559237)
 
 ## Expertise
 
 * #### Front End
 	* JavaScript, ES6, HTML5, CSS3
-	* ReactJS
-	* Laravel, Wordpress
-	* Bootstrap, SASS, Responsive
-  	* NPM
+	* ReactJS, NextJS
+	* Wordpress
+	* Bootstrap, SCSS, LESS, Responsive
 
 * #### Dev
 	* Git
@@ -20,8 +19,8 @@
 	* UI Testing
 	
 * #### Back End
-	* Node.js, MySQL
-	* PHP
+	* MySQL
+	* Typescript, PHP
 
 ## Responsibilities:
 
@@ -50,6 +49,7 @@ Skilled researcher able to identify opportunities in a given arena.
 - [x] Shotyz [https://shotyz.io]
 - [x] VVN [https://votrevoyagedenoces.fr]
 - [x] TWV [https://twvexpress.com]
+- [x] Maxxing: https://maxxing.espm-group.com/
 
 ## Education
 
