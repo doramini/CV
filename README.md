@@ -49,7 +49,7 @@ Skilled researcher able to identify opportunities in a given arena.
 - [x] Shotyz [https://shotyz.io]
 - [x] VVN [https://votrevoyagedenoces.fr]
 - [x] TWV [https://twvexpress.com]
-- [x] Maxxing: https://maxxing.espm-group.com/
+- [x] Maxxing: [https://maxxing.espm-group.com/]
 
 ## Education
 
